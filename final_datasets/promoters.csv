@@ -1,0 +1,106 @@
++,S10,		tactagcaatacgcttgcgttcggtggttaagtatgtataatgcgcgggcttgtcgt
+F1-+,F2-AMPC,F3-		tgctatcctgacagttgtcacgctgattggtgtcgttacaatctaacgcatcgccaa
+F1-+,F2-AROH,F3-		gtactagagaactagtgcattagcttatttttttgttatcatgctaaccacccggcg
+F1-+,F2-DEOP2,F3-	aattgtgatgtgtatcgaagtgtgttgcggagtagatgttagaatactaacaaactc
+F1-+,F2-LEU1_TRNA,F3-	tcgataattaactattgacgaaaagctgaaaaccactagaatgcgcctccgtggtag
+F1-+,F2-MALEFG,F3-	aggggcaaggaggatggaaagaggttgccgtataaagaaactagagtccgtttaggt
+F1-+,F2-MALK,F3-		cagggggtggaggatttaagccatctcctgatgacgcatagtcagcccatcatgaat
+F1-+,F2-RECA,F3-		tttctacaaaacacttgatactgtatgagcatacagtataattgcttcaacagaaca
+F1-+,F2-RPOB,F3-		cgacttaatatactgcgacaggacgtccgttctgtgtaaatcgcaatgaaatggttt
+F1-+,F2-RRNAB_P1,F3-	ttttaaatttcctcttgtcaggccggaataactccctataatgcgccaccactgaca
+F1-+,F2-RRNAB_P2,F3-	gcaaaaataaatgcttgactctgtagcgggaaggcgtattatgcacaccccgcgccg
+F1-+,F2-RRNDEX_P2,F3-	cctgaaattcagggttgactctgaaagaggaaagcgtaatatacgccacctcgcgac
+F1-+,F2-RRND_P1,F3-	gatcaaaaaaatacttgtgcaaaaaattgggatccctataatgcgcctccgttgaga
+F1-+,F2-RRNE_P1,F3-	ctgcaatttttctattgcggcctgcggagaactccctataatgcgcctccatcgaca
+F1-+,F2-RRNG_P1,F3-	tttatatttttcgcttgtcaggccggaataactccctataatgcgccaccactgaca
+F1-+,F2-RRNG_P2,F3-	aagcaaagaaatgcttgactctgtagcgggaaggcgtattatgcacaccgccgcgcc
+F1-+,F2-RRNX_P1,F3-	atgcatttttccgcttgtcttcctgagccgactccctataatgcgcctccatcgaca
+F1-+,F2-TNAA,F3-		aaacaatttcagaatagacaaaaactctgagtgtaataatgtagcctcgtgtcttgc
+F1-+,F2-TYRT,F3-		tctcaacgtaacactttacagcggcgcgtcatttgatatgatgcgccccgcttcccg
+F1-+,F2-ARAC,F3-		gcaaataatcaatgtggacttttctgccgtgattatagacacttttgttacgcgttt
+F1-+,F2-LACI,F3-		gacaccatcgaatggcgcaaaacctttcgcggtatggcatgatagcgcccggaagag
+F1-+,F2-MALT,F3-		aaaaacgtcatcgcttgcattagaaaggtttctggccgaccttataaccattaatta
+F1-+,F2-TRP,F3-		tctgaaatgagctgttgacaattaatcatcgaactagttaactagtacgcaagttca
+F1-+,F2-TRPP2,F3-	accggaagaaaaccgtgacattttaacacgtttgttacaaggtaaaggcgacgccgc
+F1-+,F2-THR,F3-		aaattaaaattttattgacttaggtcactaaatactttaaccaatataggcatagcg
+F1-+,F2-BIOB,F3-		ttgtcataatcgacttgtaaaccaaattgaaaagatttaggtttacaagtctacacc
+F1-+,F2-FOL,F3-		catcctcgcaccagtcgacgacggtttacgctttacgtatagtggcgacaatttttt
+F1-+,F2-UVRBP1,F3-	tccagtataatttgttggcataattaagtacgacgagtaaaattacatacctgcccg
+F1-+,F2-UVRBP3,F3-	acagttatccactattcctgtggataaccatgtgtattagagttagaaaacacgagg
+F1-+,F2-LEXA,F3-		tgtgcagtttatggttccaaaatcgccttttgctgtatatactcacagcataactgt
+F1-+,F2-PORI-L,F3-	ctgttgttcagtttttgagttgtgtataacccctcattctgatcccagcttatacgg
+F1-+,F2-SPOT42,F3-	attacaaaaagtgctttctgaactgaacaaaaaagagtaaagttagtcgcgtagggt
+F1-+,F2-M1RNA,F3-	atgcgcaacgcggggtgacaagggcgcgcaaaccctctatactgcgcgccgaagctg
+F1-+,F2-GLNS,F3-		taaaaaactaacagttgtcagcctgtcccgcttataagatcatacgccgttatacgt
+F1-+,F2-TUFB,F3-		atgcaattttttagttgcatgaactcgcatgtctccatagaatgcgcgctacttgat
+F1-+,F2-SUBB-E,F3-	ccttgaaaaagaggttgacgctgcaaggctctatacgcataatgcgccccgcaacgc
+F1-+,F2-STR,F3-		tcgttgtatatttcttgacaccttttcggcatcgccctaaaattcggcgtcctcata
+F1-+,F2-SPC,F3-		ccgtttattttttctacccatatccttgaagcggtgttataatgccgcgccctcgat
+F1-+,F2-RPOA,F3-		ttcgcatatttttcttgcaaagttgggttgagctggctagattagccagccaatctt
+F1-+,F2-RPLJ,F3-		tgtaaactaatgcctttacgtgggcggtgattttgtctacaatcttacccccacgta
+F1-+,F2-PORI-R,F3-	gatcgcacgatctgtatacttatttgagtaaattaacccacgatcccagccattctt
+F1-+,F2-ALAS,F3-		aacgcatacggtattttaccttcccagtcaagaaaacttatcttattcccacttttc
+F1-+,F2-ARABAD,F3-	ttagcggatcctacctgacgctttttatcgcaactctctactgtttctccatacccg
+F1-+,F2-BIOA,F3-		gccttctccaaaacgtgttttttgttgttaattcggtgtagacttgtaaacctaaat
+F1-+,F2-DEOP1,F3-	cagaaacgttttattcgaacatcgatctcgtcttgtgttagaattctaacatacggt
+F1-+,F2-GALP2,F3-	cactaatttattccatgtcacacttttcgcatctttgttatgctatggttatttcat
+F1-+,F2-HIS,F3-		atataaaaaagttcttgctttctaacgtgaaagtggtttaggttaaaagacatcagt
+F1-+,F2-HISJ,F3-		caaggtagaatgctttgccttgtcggcctgattaatggcacgatagtcgcatcggat
+F1-+,F2-ILVGEDA,F3-	ggccaaaaaatatcttgtactatttacaaaacctatggtaactctttaggcattcct
+F1-+,F2-LACP1,F3-	taggcaccccaggctttacactttatgcttccggctcgtatgttgtgtggaattgtg
+F1-+,F2-LPP,F3-		ccatcaaaaaaatattctcaacataaaaaactttgtgtaatacttgtaacgctacat
+F1-+,F2-TRPR,F3-		tggggacgtcgttactgatccgcacgtttatgatatgctatcgtactctttagcgag
+F1-+,F2-UVRB_P2,F3-	tcagaaatattatggtgatgaactgtttttttatccagtataatttgttggcataat
+F1--,F2- 867,F3-		atatgaacgttgagactgccgctgagttatcagctgtgaacgacattctggcgtcta
+F1--,F2-1169,F3-		cgaacgagtcaatcagaccgctttgactctggtattactgtgaacattattcgtctc
+F1--,F2- 802,F3-		caatggcctctaaacgggtcttgaggggttttttgctgaaaggaggaactatatgcg
+F1--,F2- 521,F3-		ttgacctactacgccagcattttggcggtgtaagctaaccattccggttgactcaat
+F1--,F2- 918,F3-		cgtctatcggtgaacctccggtatcaacgctggaaggtgacgctaacgcagatgcag
+F1--,F2-1481,F3-		gccaatcaatcaagaacttgaagggtggtatcagccaacagcctgacatccttcgtt
+F1--,F2-1024,F3-		tggatggacgttcaacattgaggaaggcataacgctactacctgatgtttactccaa
+F1--,F2-1149,F3-		gaggtggctatgtgtatgaccgaacgagtcaatcagaccgctttgactctggtatta
+F1--,F2- 313,F3-		cgtagcgcatcagtgctttcttactgtgagtacgcaccagcgccagaggacgacgac
+F1--,F2- 780,F3-		cgaccgaagcgagcctcgtcctcaatggcctctaaacgggtcttgaggggttttttg
+F1--,F2-1384,F3-		ctacggtgggtacaatatgctggatggagatgcgttcacttctggtctactgactcg
+F1--,F2- 507,F3-		atagtctcagagtcttgacctactacgccagcattttggcggtgtaagctaaccatt
+F1--,F2-  39,F3-		aactcaaggctgatacggcgagacttgcgagccttgtccttgcggtacacagcagcg
+F1--,F2-1203,F3-		ttactgtgaacattattcgtctccgcgactacgatgagatgcctgagtgcttccgtt
+F1--,F2- 988,F3-		tattctcaacaagattaaccgacagattcaatctcgtggatggacgttcaacattga
+F1--,F2-1171,F3-		aacgagtcaatcagaccgctttgactctggtattactgtgaacattattcgtctccg
+F1--,F2- 753,F3-		aagtgcttagcttcaaggtcacggatacgaccgaagcgagcctcgtcctcaatggcc
+F1--,F2- 630,F3-		gaagaccacgcctcgccaccgagtagacccttagagagcatgtcagcctcgacaact
+F1--,F2- 660,F3-		ttagagagcatgtcagcctcgacaacttgcataaatgctttcttgtagacgtgccct
+F1--,F2-1216,F3-		tattcgtctccgcgactacgatgagatgcctgagtgcttccgttactggattgtcac
+F1--,F2- 835,F3-		tgctgaaaggaggaactatatgcgctcatacgatatgaacgttgagactgccgctga
+F1--,F2-  35,F3-		catgaactcaaggctgatacggcgagacttgcgagccttgtccttgcggtacacagc
+F1--,F2-1218,F3-		ttcgtctccgcgactacgatgagatgcctgagtgcttccgttactggattgtcacca
+F1--,F2- 668,F3-		catgtcagcctcgacaacttgcataaatgctttcttgtagacgtgccctacgcgctt
+F1--,F2- 413,F3-		aggaggaactacgcaaggttggaacatcggagagatgccagccagcgcacctgcacg
+F1--,F2- 991,F3-		tctcaacaagattaaccgacagattcaatctcgtggatggacgttcaacattgagga
+F1--,F2- 751,F3-		tgaagtgcttagcttcaaggtcacggatacgaccgaagcgagcctcgtcctcaatgg
+F1--,F2- 850,F3-		ctatatgcgctcatacgatatgaacgttgagactgccgctgagttatcagctgtgaa
+F1--,F2-  93,F3-		gcggcagcacgtttccacgcggtgagagcctcaggattcatgtcgatgtcttccggt
+F1--,F2-1108,F3-		atccctaatgtctacttccggtcaatccatctacgttaaccgaggtggctatgtgta
+F1--,F2- 915,F3-		tggcgtctatcggtgaacctccggtatcaacgctggaaggtgacgctaacgcagatg
+F1--,F2-1019,F3-		tctcgtggatggacgttcaacattgaggaaggcataacgctactacctgatgtttac
+F1--,F2-  19,F3-		tattggcttgctcaagcatgaactcaaggctgatacggcgagacttgcgagccttgt
+F1--,F2-1320,F3-		tagagggtgtactccaagaagaggaagatgaggctagacgtctctgcatggagtatg
+F1--,F2-  91,F3-		cagcggcagcacgtttccacgcggtgagagcctcaggattcatgtcgatgtcttccg
+F1--,F2- 217,F3-		ttacgttggcgaccgctaggactttcttgttgattttccatgcggtgttttgcgcaa
+F1--,F2- 957,F3-		acgctaacgcagatgcagcgaacgctcggcgtattctcaacaagattaaccgacaga
+F1--,F2- 260,F3-		ggtgttttgcgcaatgttaatcgctttgtacacctcaggcatgtaaacgtcttcgta
+F1--,F2- 557,F3-		aaccattccggttgactcaatgagcatctcgatgcagcgtactcctacatgaataga
+F1--,F2-1355,F3-		agacgtctctgcatggagtatgagatggactacggtgggtacaatatgctggatgga
+F1--,F2- 244,F3-		tgttgattttccatgcggtgttttgcgcaatgttaatcgctttgtacacctcaggca
+F1--,F2- 464,F3-		tgcacgggttgcgatagcctcagcgtattcaggtgcgagttcgatagtctcagagtc
+F1--,F2- 296,F3-		aggcatgtaaacgtcttcgtagcgcatcagtgctttcttactgtgagtacgcaccag
+F1--,F2- 648,F3-		ccgagtagacccttagagagcatgtcagcctcgacaacttgcataaatgctttcttg
+F1--,F2- 230,F3-		cgctaggactttcttgttgattttccatgcggtgttttgcgcaatgttaatcgcttt
+F1--,F2-1163,F3-		tatgaccgaacgagtcaatcagaccgctttgactctggtattactgtgaacattatt
+F1--,F2-1321,F3-		agagggtgtactccaagaagaggaagatgaggctagacgtctctgcatggagtatga
+F1--,F2- 663,F3-		gagagcatgtcagcctcgacaacttgcataaatgctttcttgtagacgtgccctacg
+F1--,F2- 799,F3-		cctcaatggcctctaaacgggtcttgaggggttttttgctgaaaggaggaactatat
+F1--,F2- 987,F3-		gtattctcaacaagattaaccgacagattcaatctcgtggatggacgttcaacattg
+F1--,F2-1226,F3-		cgcgactacgatgagatgcctgagtgcttccgttactggattgtcaccaaggcttcc
+F1--,F2- 794,F3-		ctcgtcctcaatggcctctaaacgggtcttgaggggttttttgctgaaaggaggaac
+F1--,F2-1442,F3-		taacattaataaataaggaggctctaatggcactcattagccaatcaatcaagaact
